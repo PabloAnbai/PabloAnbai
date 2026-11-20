@@ -1,4 +1,4 @@
-## Hi, Pablo here. Computer engineer student!
+## Hi, Pablo here. Not distracted, abstracted!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-ScikitLearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
